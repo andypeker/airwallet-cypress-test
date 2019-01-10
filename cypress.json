@@ -1,0 +1,17 @@
+{
+    "baseUrl": "https://www.baidu.com",
+    "fixturesFolder": "./fixtures",
+    "integrationFolder": "./integration",
+    "testFiles": "**/*test.js",
+    "video": false,
+    "viewportHeight": 800,
+    "viewportWidth": 1600,
+    "environmentVariables": {
+        "domain": "10.19.140.200:29220",
+        "protocol": "http"
+    },
+    "chromeWebSecurity": false,
+    "requestTimeout": 5000,
+    "responseTimeout": 5000,
+    "screenshotsFolder": "./"
+}

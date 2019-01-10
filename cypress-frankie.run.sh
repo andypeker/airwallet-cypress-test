@@ -1,5 +1,5 @@
 #!/bin/bash
 
-npx cypress open --project ./frankie
+npx cypress open --project .
 
 

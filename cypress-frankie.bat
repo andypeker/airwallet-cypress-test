@@ -1,1 +1,1 @@
-npx cypress open --project C:\Users\franklin\Downloads\frankie2
+npx cypress open --project .

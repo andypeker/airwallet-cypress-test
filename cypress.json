@@ -1,8 +1,8 @@
 {
-    "baseUrl": "https://www.baidu.com",
+    "baseUrl": "https://staging.airwallex.com/",
     "fixturesFolder": "./fixtures",
     "integrationFolder": "./integration",
-    "testFiles": "**/*test.js",
+    "testFiles": "**/airwallex.js",
     "video": false,
     "viewportHeight": 800,
     "viewportWidth": 1600,
